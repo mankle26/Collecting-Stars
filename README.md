@@ -59,10 +59,3 @@ Here an example output (20.09.22):
 | Vonovia                       | 2     |
 | Zalando                       | 1     |
 
-
-34                Siemens-Energy                  1
-35          Siemens-Healthineers                  2
-36                       Symrise                  1
-37                 Volkswagen-VZ                  4
-38                       Vonovia                  2
-39                       Zalando                  1
