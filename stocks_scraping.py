@@ -99,7 +99,8 @@ class Index:
         return self.df
 
 
-dow = Index("Nasdaq100")
+# supports "DowJones" and "Nasdaq100" so far.
+dow = Index("DowJones")
 
 print(dow.symbols)
 print(dow.get_zacks_ranks())
